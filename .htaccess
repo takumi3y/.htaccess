@@ -1,0 +1,8 @@
+# Binary
+AddType application/octet-stream      bin
+# Video
+AddType application/x-shockwave-flash swf
+AddType video/mpeg                    mpg mpeg
+AddType video/mp4                     mp4
+AddType video/webm                    webm
+AddType video/ogg                     ogv
